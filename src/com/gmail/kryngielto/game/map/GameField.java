@@ -1,4 +1,4 @@
-package com.gmail.kryngielto.game;
+package com.gmail.kryngielto.game.map;
 
 import com.badlogic.gdx.graphics.Texture;
 
