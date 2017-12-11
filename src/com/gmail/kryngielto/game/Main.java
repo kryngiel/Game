@@ -16,7 +16,7 @@ public class Main extends Game {
     private SpriteBatch batch;
 
     public void create() {
-        FileHandle worldFile = Gdx.files.internal("resources//world.png");
+        FileHandle worldFile = Gdx.files.internal("test.png");
         texture = new Texture(worldFile);
         batch = new SpriteBatch();
     }
