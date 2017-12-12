@@ -6,6 +6,6 @@ package com.gmail.kryngielto.game.utils;
 public class Constants {
     private Constants() {} {}
 
-    public static final int FIELD_SIZE_PIXELS = 64;
-    public static final Size GAME_WINDOW_SIZE = new Size(12, 8);
+    public static final int FIELD_SIZE_PIXELS = 32;
+    public static final Size GAME_WINDOW_SIZE = new Size(24, 16);
 }
